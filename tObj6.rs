@@ -19,4 +19,11 @@
       <type>Main</type>
       <value>name6</value>
    </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>id6</value>
+   </webElementProperties>
 </WebElementEntity>
