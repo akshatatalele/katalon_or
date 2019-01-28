@@ -4,6 +4,19 @@
    <name>tObj1</name>
    <tag></tag>
    <elementGuidId>3688f646-117f-4407-8610-50b6844074f4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>id1</value>
+   </webElementProperties>
 </WebElementEntity>
